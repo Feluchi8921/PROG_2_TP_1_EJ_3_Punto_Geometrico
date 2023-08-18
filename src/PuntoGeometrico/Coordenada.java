@@ -9,7 +9,7 @@ public class Coordenada {
     public Coordenada(){
         this.coordenada=INICIALIZACION;
     }
-    
+
     public int getCoordenada(){
         return this.coordenada;
     }
